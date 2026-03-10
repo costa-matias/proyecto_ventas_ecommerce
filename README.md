@@ -17,10 +17,11 @@ Evaluar la salud del negocio e-commerce mediante análisis de ventas, retención
 
 
 
-##  Herramientas utilizadas
-- Python: limpieza, creación de métricas, cálculo de retención (cohortes)
-- Excel: KPIs, segmentación RFM
-- Excel y Power BI: dashboards interactivos
+## Herramientas utilizadas
+
+- **Python**: limpieza de datos, creación de métricas, cálculo de retención de clientes (análisis de cohortes).
+- **Excel**: cálculo de KPIs, segmentación de clientes mediante análisis RFM y dashboards exploratorios.
+- **Power BI**: desarrollo de dashboards interactivos, modelado de datos en **esquema estrella** y creación de **medidas DAX** para el análisis de ventas.
 
 
 
